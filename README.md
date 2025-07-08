@@ -74,11 +74,9 @@ model.fit(
 After training, the model is evaluated on the test set:
 
 ```python
-Test Accuracy: 0.9241
-Test F1 Score: 0.9182
+Test Accuracy: 0.9111
+Test F1 Score: 0.9117
 ```
-
-(*Example results, may vary*)
 
 ---
 
