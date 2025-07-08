@@ -1,7 +1,3 @@
-Here's a well-structured `README.md` file for your BERT-based topic classification model trained on GATE questions:
-
----
-
 ````markdown
 # 🎓 GATE Question Topic Classifier using DistilBERT
 
